@@ -2,7 +2,7 @@
     "name": "Omerta",
     "symbol": "OMT",
     "description": "Omerta is memecoin on Solana blockchain.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png",
+    "image": "https://raw.githubusercontent.com/devshellX/omerta/refs/heads/main/omertaOMT.PNG",
     "attributes": [
       {
         "trait_type": "Item",
